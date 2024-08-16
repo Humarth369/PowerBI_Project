@@ -1,6 +1,4 @@
-#Real-Time Sales Insights Dashboard for Computer Hardware Business 
-
-Here's a more polished version of your project description tailored for a BA (Business Analyst) or APM (Associate Product Manager) role:
+Real-Time Sales Insights Dashboard for Computer Hardware Business 
 
 Objective: 
 Developed an advanced Power BI dashboard to empower the Sales Director with real-time insights into sales trends, customer behavior, and market dynamics, facilitating data-driven decisions in a rapidly evolving market.
