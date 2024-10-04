@@ -11,5 +11,4 @@ Approach:
 
 Result: 
 -Delivered a sophisticated, user-friendly dashboard that significantly enhanced the Sales Director's ability to respond to market shifts and optimize sales strategies. The tool provided deep, actionable insights by dynamically linking various sales metrics, driving improved market responsiveness.
-
-
+![image](https://github.com/user-attachments/assets/972e102f-148d-4bdf-976f-81171fcd441a)
